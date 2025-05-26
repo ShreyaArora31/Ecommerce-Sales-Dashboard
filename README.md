@@ -2,7 +2,9 @@
 
 Owner of **Madhav Store** wants us to help them create a **dashboard** to track and analyze their online sales across India.
 
-An interactive Power BI dashboard to analyze online sales performance across India for **Madhav Store**.![image](https://github.com/user-attachments/assets/25dba37c-278f-4db7-a174-aec83b462aa8)
+An interactive Power BI dashboard to analyze online sales performance across India for **Madhav Store**.      
+
+![image](https://github.com/user-attachments/assets/25dba37c-278f-4db7-a174-aec83b462aa8)
 
 - Created interactive dashboard to track and analyze online sales data.
 - Used complex parameters to drill down in worksheet and customization using filters and slicers.
@@ -12,7 +14,6 @@ An interactive Power BI dashboard to analyze online sales performance across Ind
 ## 📌 Overview
 This dashboard helps track key sales metrics, customer behavior, and regional performance with dynamic visualizations and filters.
 
----
 
 ## ✨ Features
 - **Key Metrics**: Total Sales (₹438K), Profit (₹37K), Quantity Sold (5,615), Avg. Order Value (₹121K)  
