@@ -1,5 +1,6 @@
-# 📊 Madhav E-Commerce Sales Dashboard
+# 📊 Madhav Store E-Commerce Sales Dashboard
 
+## 🌟 Objective
 Owner of **Madhav Store** wants us to help them create a **dashboard** to track and analyze their online sales across India.
 
 An interactive Power BI dashboard to analyze online sales performance across India for **Madhav Store**.      
@@ -16,19 +17,28 @@ This dashboard helps track key sales metrics, customer behavior, and regional pe
 
 
 ## ✨ Features
-- **Key Metrics**: Total Sales (₹438K), Profit (₹37K), Quantity Sold (5,615), Avg. Order Value (₹121K)  
+- **Sales Analytics**
+  - Current sales (₹438K), profit (₹37K), quantity sold (5,615)
+  - Average Order Value (₹121K) tracking
+  - Monthly profit trends
+- **Multi-Dimensional Analysis**
+  - Compare performance across 5+ Indian states
+  - Category-wise breakdown (Clothing 63%, Electronics 21%)
+  - Payment method distribution (UPI 21%, Cards 25%)
 - **Interactive Visualizations**:
   - 📈 Profit trends by month  
   - 🗺️ Sales by state (Maharashtra, MP, UP, Delhi)  
-  - 👕 Category breakdown (Clothing: 63%, Electronics: 21%, Furniture: 17%)  
+  - 👕 Category breakdown (Clothing: 63%, Electronics: 21%, Furniture: 17%) 
   - 💳 Payment methods (UPI: 21%, Debit Card: 13%, Credit Card: 12%)  
   - 📊 Sub-category profitability (Printers, Sarees, Bookcases, etc.)  
 - **Drill-Down Filters**: Slice data by date, region, category, and more.  
 
-## 🛠️ Technical Details
-**Tools Used**:  
-- Power BI (DAX, Power Query)  
-- Excel (Data Cleaning)  
+## 🛠️ Technologies Used
+
+- **Dashboard**: Power BI
+- **Data Processing**: Power Query, DAX
+- **Visualizations**: Custom charts (Maps, Scatter Plots, Slicers)
+- **Deployment**: Power BI Service (Cloud)
 
 **Data Transformations**:  
 - Created calculated columns (e.g., Profit Margin, AOV)  
@@ -41,3 +51,20 @@ This dashboard helps track key sales metrics, customer behavior, and regional pe
 - Scatter Plots  
 - Filled Maps  
 - Slicers  
+
+## � Getting Started
+
+### Prerequisites
+- Power BI Desktop (Free download)
+- Microsoft account (for cloud sharing)
+
+### Installation
+1. Clone the repository:
+   (https://github.com/ShreyaArora31/Ecommerce-Sales-Dashboard.git)
+Open Ecommerce Dashboard.pbit in Power BI Desktop
+
+Using the Dashboard
+-Use the month/year slicer to adjust time periods
+-Click any visualization to cross-filter others
+-Hover over charts for detailed tooltips
+-Export specific views as PDF/PPT
