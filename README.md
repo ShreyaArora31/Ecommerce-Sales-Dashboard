@@ -61,9 +61,8 @@ This dashboard helps track key sales metrics, customer behavior, and regional pe
 ### Installation
 1. Clone the repository:
    (https://github.com/ShreyaArora31/Ecommerce-Sales-Dashboard.git)
-Open Ecommerce Dashboard.pbit in Power BI Desktop
-
-Using the Dashboard
+2. Open Ecommerce Dashboard.pbit in Power BI Desktop
+3. Using the Dashboard
 -Use the month/year slicer to adjust time periods
 -Click any visualization to cross-filter others
 -Hover over charts for detailed tooltips
