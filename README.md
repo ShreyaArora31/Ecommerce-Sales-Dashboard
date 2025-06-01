@@ -5,7 +5,8 @@ Owner of **Madhav Store** wants us to help them create a **dashboard** to track 
 
 An interactive Power BI dashboard to analyze online sales performance across India for **Madhav Store**.      
 
-![image](https://github.com/user-attachments/assets/25dba37c-278f-4db7-a174-aec83b462aa8)
+![image]![Uploading Dashboard.png…]()
+
 
 - Created interactive dashboard to track and analyze online sales data.
 - Used complex parameters to drill down in worksheet and customization using filters and slicers.
